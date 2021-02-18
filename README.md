@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ouriol-wallypos
+- 👋 Hi, I’m Omar Uriol
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate with everybody
