@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Omar Uriol
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate with everybody
 - 📫 Send me a message 
 
